@@ -59,7 +59,7 @@ main p {
     font-weight: 100;
     line-height: 110%;
     margin-bottom: 50px;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
 }
 form legend {
     color: var(--color-text-2);
@@ -120,3 +120,29 @@ main .seta-right{
 
 
 /*responsivo*/
+
+@media (max-width:1165px) {
+    body::before{
+        content: "";
+        position: fixed;
+        height: 100%;
+        width: 100%;
+        background-color: var(--color-bg);
+        }  
+    .page {
+        display: flex;
+        flex-direction: column;
+
+    }
+    h1 {
+        font-size: 30px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+main a {
+    margin-left: 10%;    
+}
+.page .logo {
+}
+}
