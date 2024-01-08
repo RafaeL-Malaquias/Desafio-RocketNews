@@ -256,7 +256,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O RocketNews é um Alerta de Noticías para começar seu dia bem e informado.
 
-[Link](https://rafael-malaquias.github.io/Projeto-Discover/) - Para visualizar o projeto.
+[Link](https://rafael-malaquias.github.io/) - Para visualizar o projeto.
 
 ## 🔖 Layout
 
