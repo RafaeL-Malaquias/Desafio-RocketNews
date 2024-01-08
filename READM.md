@@ -231,7 +231,7 @@ Desafio promovido pela Rocketseat para ensino de tecnologias WEB.
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#https://rafael-malaquias.github.io/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://rafael-malaquias.github.io/Desafio-RocketNews/">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -256,7 +256,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O RocketNews é um Alerta de Noticías para começar seu dia bem e informado.
 
-[Link](https://rafael-malaquias.github.io/) - Para visualizar o projeto.
+[Link](https://rafael-malaquias.github.io/Desafio-RocketNews/) - Para visualizar o projeto.
 
 ## 🔖 Layout
 
