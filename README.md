@@ -2,7 +2,7 @@
     <img src="https://rafael-malaquias.github.io/Desafio-RocketNews/assest/logo.svg">
 </h1>
   <p align="center">
-    <a href="">
+    <a href="#">
       <img height="250em" src="assest/Screenshot_1.png">
       </a>
   </p>
